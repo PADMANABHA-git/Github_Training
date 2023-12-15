@@ -6,3 +6,6 @@ jobs:
         steps:
           - name: step1
             run: echo "Helow Padmanabha"
+
+          - name: step2
+            run: echo "First workkflow created"
